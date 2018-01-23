@@ -5,6 +5,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Learning CSS</title>
+        <style>
+            p {
+                color:darksalmon;
+            }
+            div p {
+                color:black;
+                font-size:22px;
+            }
+
+        </style>
     </head>
     <body>
         <!-- Inline Styles -->
@@ -35,5 +45,21 @@
             border-style:double;">
             Gaudy Style
         </h1>
+        <!-- Internal Styles -->
+        <!-- These are still page specific, but are
+            a little easier to maintain -->
+            <p>I like cheese.</p>
+            <div>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas consectetur ab repellendus eum exercitationem, aliquam voluptate ex facere quae repellat tempora. Animi labore ad molestiae, odit officia deserunt? Molestiae, cum!
+                </p>
+            </div>
+            <ul>
+                <li>Gouda</li>
+                <li>Muenster</li>
+                <li>Gorgonzola</li>
+                <li>Brie</li>
+                <li>Montery Jack with Japalenos</li>
+            </ul>
     </body>
 </html>
