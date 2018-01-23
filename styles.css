@@ -34,5 +34,13 @@ li {
     
     border-style: groove;
     border-color:firebrick;
-    
 }
+    
+    /* Classes start with periods. */
+.bw-10 { border-width: 10px }
+.bc-blk { border-color: black; }
+.bd-dot { border-style:dotted; }
+.bd-tp-yw {border-top-color: yellow;}
+.bd-lf-char{ border-left-color:chartreuse;}
+.bd-rg-ab{ border-right-color:aliceblue;}
+.bd-bt-sm { border-bottom-color: salmon;}
