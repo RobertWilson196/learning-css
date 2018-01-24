@@ -1,0 +1,16 @@
+/* Width */
+.w-lg { width:30rem; }
+.w-md { width:20rem; }
+.w-sm { width:10rem; }
+/* Height */
+.h-lg { height:30rem; }
+.h-md { height:20rem; }
+.h-sm { height:10rem; }
+/* Color */
+.bg-b { background-color:blue; }
+.bg-r { background-color:red; }
+.bg-y { background-color:yellow; }
+/* Position */
+.pd-c { padding:5rem; }
+.mg-c { margin:25%; }
+
