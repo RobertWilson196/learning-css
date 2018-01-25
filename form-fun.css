@@ -1,0 +1,47 @@
+.border{ 
+    border-style:solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.box{
+    width: 15rem;
+    height: 3rem;
+    margin-left: 41%;
+}
+
+.navbar {
+    height: 4rem;
+}
+
+.center-text {
+    text-align:center;
+}
+
+input {
+    width:100%
+}
+
+input[type=text] {
+    border-width: 2px;
+    border-style: solid;
+    border-color: green;
+}
+
+box {
+    color:blue;
+}
+
+
+
+input[type=email] {
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+}
+
+input[type=password] {
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
