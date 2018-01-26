@@ -1,0 +1,24 @@
+.border {
+    border-width: 1px;
+    border-color:black;
+    border-style: groove; 
+    margin: 10px;
+    margin-top: 2px;
+    width: 200px;
+}
+
+.nopad {
+    padding: 0px;
+}
+
+.text-align-center {
+    text-align:center;
+}
+
+.navbar-height {
+    height: 50px;
+}
+
+.bg-black {
+    background-color:lightcyan;
+}
